@@ -10,6 +10,10 @@
 ## 📈 Purpose
 To analyze historical fire call data to uncover trends in incidents, response types, and more — for community insight and technical skill development.
 
+## 🔥 Residential/Structure Fires by Battalion (2019–2022)
+
+![Fire Trend Chart](fires_per_battalion.png)
+
 ## ⚙️ Tools Used
 - Python
 - SQL Server
